@@ -1,4 +1,4 @@
-👋 Hi, I’m @ITSSTAFFS2024<br>
+👋 Hi, I’m @ITSSTAFFS2024 and it is managed by one of the Staff Of ITS<br>
 👀 I’m interested in technology, creative writing, and community engagement.<br>
 🌱 I’m currently learning about web development and data science.<br>
 💞️ I’m looking to collaborate on projects that focus on social impact and tech innovation.<br>
